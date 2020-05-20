@@ -5,7 +5,7 @@ A simple script to detect any colored object and track it using Opencv.
 # Usage
 * First install required packages
 ```
-python -m pip install -r requirement.txt
+python -m pip install -r requirements.txt
 ```
 
 * First get hsv values from this script for the color u want to detect
